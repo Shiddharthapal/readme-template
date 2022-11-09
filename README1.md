@@ -128,3 +128,5 @@ http://www.youtube.com/channel/UC66gvtOgJMXN-Qd0uCSUEaw
 |Nantu | milk |
 |moni | potato|
 |manik | chicken|
+
+Bye Bye
